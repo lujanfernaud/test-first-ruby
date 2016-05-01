@@ -1,4 +1,4 @@
-# The Oding Project - Test First Ruby
+# The Odin Project - Test First Ruby
 
 Ruby-RSpec project for The Odin Project
 
